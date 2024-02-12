@@ -1,2 +1,2 @@
-# javascript12
+# javascript12feb
 A code repo for js
