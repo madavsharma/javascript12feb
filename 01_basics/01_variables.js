@@ -9,7 +9,7 @@ let accountState;
 accountEmail = "def@google.com"
 accountPassword = "77667"
 accountcity = "Pune"
-
+accountCountry = "India"
 
 // console.log(accountId);
 // console.log(accountEmail);
