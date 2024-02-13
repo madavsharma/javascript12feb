@@ -1,21 +1,21 @@
 
 /* For Number */
 
-//let score = 33
-//let score1 = "33"
-//let score1 = "33abc"
-//let score1 = null
-//let score1 = undefined
-//let score1 = true
-//let score1 = false
-//let score1 = "madav"
+let score = 33
+// let score1 = "33"
+// let score1 = "33abc"
+// let score1 = null
+// let score1 = undefined
+// let score1 = true
+// let score1 = false
+// let score1 = "madav"
 
-//console.log(typeof (score));
+console.log(typeof (score));
 //console.log(typeof score1);
 
-//let valueInNum = Number(score1)
-//console.log(typeof valueInNum);
-//console.log(valueInNum);
+let valueInNum = Number(score1)
+console.log(typeof valueInNum);
+console.log(valueInNum);
 
 // "33" => 33
 // "33abcd" => NaN
@@ -23,7 +23,7 @@
 
 /*  For Boolean   */
 
-//let isLoggedIn = 1
+let isLoggedIn = 1
 //let isLoggedIn = 0
 //let isLoggedIn = ""
 //let isLoggedIn = "madav"
@@ -31,8 +31,8 @@
 //let isLoggedIn = undefined
 
 
-//let booleanIsLoggedIn = Boolean(isLoggedIn)
-//console.log(booleanIsLoggedIn);
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn);
 
 
 // 1 => true; 0 => false
